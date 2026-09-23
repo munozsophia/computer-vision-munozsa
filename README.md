@@ -16,6 +16,6 @@ This is a repository for Sophia Munoz to store all code from the course. The org
 
 Latest update: September 5, 2026
 
-### Homeworks
+### Assignments
 
 - [Assignment 1](assignments/assignment1): Fourier Analysis
