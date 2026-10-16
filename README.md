@@ -14,9 +14,10 @@ Repository's URL: [https://github.com/munozsophia/computer-vision-munozsa](https
 
 This is a repository for Sophia Munoz to store all code from the course. The organization of this repository is as follows.
 
-Latest update: September 23, 2026
+Latest update: October 12, 2026
 
 ### Assignments
 
 - [Assignment 1](assignments/assignment1): Fourier Analysis
 - [Assignment 2](assignments/assignment2): Backpropagation from Scratch
+- [Assignment 3](assignments/assignment3): Convolution and Attention from Scratch
